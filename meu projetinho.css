@@ -1,0 +1,39 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    background-color: rgb(29, 101, 189);
+}
+
+header{ 
+    background-color: rgb(29, 101, 189);
+    color: black;
+    align-items: center;
+    width: 100%; 
+    height: 100px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-style: italic;
+    padding: 5px;
+}
+
+aside{
+    background-color: rgb(29, 101, 189);
+    color: black;
+    width: 100%;
+    height: 300px;
+    float: left;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+}
+
+footer{
+    background-color: rgb(29, 101, 189);
+    color: black;
+    text-align: left;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    width: 100%;
+    height: 100%;
+}
+
